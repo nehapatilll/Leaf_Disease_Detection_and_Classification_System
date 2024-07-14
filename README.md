@@ -19,7 +19,9 @@ Python: Primary programming language
 <br /> IDE or code editor-Jupyter Notebook, PyCharm or VS Code
 <br /> OpenCV for image processing
 
-📝The research paper titled "Leaf Disease Detection and Classification System" was published in the prestigious Mukt Shabd Journal (UGC CARE LIST Group-I Journal), ISSN NO: 2347-3150, MSJ Volume XIII, Issue 5, May 2024. Check out the paper here: [https://shabdbooks.com/volume-13-issue-5-may-2024](https://shabdbooks.com/volume-13-issue-5-may-2024)
+
+# 📝 
+The research paper titled "Leaf Disease Detection and Classification System" was published in the prestigious Mukt Shabd Journal (UGC CARE LIST Group-I Journal), ISSN NO: 2347-3150, MSJ Volume XIII, Issue 5, May 2024. Check out the paper here: [https://shabdbooks.com/volume-13-issue-5-may-2024](https://shabdbooks.com/volume-13-issue-5-may-2024)
 
 # System Architecture🛠️
 ![SAnew](https://github.com/user-attachments/assets/9835e9c9-72af-454e-b474-601d81e3cdc9)
