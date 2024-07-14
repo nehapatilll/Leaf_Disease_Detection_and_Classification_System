@@ -1,21 +1,19 @@
 # Leaf_Disease_Detection_and_Classification_System 
 Designed an ML-based Plant leaf disease detection and classification system using Python, image processing and advanced Resnet, a type of CNN algorithm.
-
-The system should differentiate between healthy leaves and those affected by various diseases, such as fungal , viral, bacterial infections, nutrient deficiencies, or environmental stressors.
+<br /> The system should differentiate between healthy leaves and those affected by various diseases, such as fungal , viral, bacterial infections, nutrient deficiencies, or environmental stressors.
 
 # Our Goal🎯
 Goal is clear and simple. We need to build a model, which can classify between healthy and diseased crop leaves and also if the crop have any disease, predict which disease is it.
 
 # Dataset📊 
 Source:[ New Plant Diseases Dataset(Augmented)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-
-Content:
-• 38 classes (plant-disease pairs)
-• 14 unique plants
-• 87,867 images for training
+<br /> Content:
+<br /> • 38 classes (plant-disease pairs)
+<br /> • 14 unique plants
+<br /> • 87,867 images for training
 
 # Tech Stack🛠️
-<br /> Python: Primary programming language
+Python: Primary programming language
 <br /> Frameworks: ResNet,TensorFlow, PyTorch or Kerastorchvision: For computer vision utilities
 <br /> Matplotlib: For data visualization
 <br /> IDE or code editor-Jupyter Notebook, PyCharm or VS Code
