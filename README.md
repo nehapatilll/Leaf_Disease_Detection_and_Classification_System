@@ -11,7 +11,9 @@ Source:[ New Plant Diseases Dataset(Augmented)](https://www.kaggle.com/datasets/
 
 Content:
 • 38 classes (plant-disease pairs)
+
 • 14 unique plants
+
 • 87,867 images for training
 
 # Tech Stack🛠️
