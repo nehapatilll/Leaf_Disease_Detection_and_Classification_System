@@ -11,17 +11,15 @@ Source:[ New Plant Diseases Dataset(Augmented)](https://www.kaggle.com/datasets/
 
 Content:
 • 38 classes (plant-disease pairs)
-
 • 14 unique plants
-
 • 87,867 images for training
 
 # Tech Stack🛠️
-Python: Primary programming language
-Frameworks: ResNet,TensorFlow, PyTorch or Kerastorchvision: For computer vision utilities
-Matplotlib: For data visualization
-IDE or code editor-Jupyter Notebook, PyCharm or VS Code
-OpenCV for image processing
+<br /> Python: Primary programming language
+<br /> Frameworks: ResNet,TensorFlow, PyTorch or Kerastorchvision: For computer vision utilities
+<br /> Matplotlib: For data visualization
+<br /> IDE or code editor-Jupyter Notebook, PyCharm or VS Code
+<br /> OpenCV for image processing
 
 📝The research paper titled "Leaf Disease Detection and Classification System" was published in the prestigious Mukt Shabd Journal (UGC CARE LIST Group-I Journal), ISSN NO: 2347-3150, MSJ Volume XIII, Issue 5, May 2024. Check out the paper here: [https://shabdbooks.com/volume-13-issue-5-may-2024](https://shabdbooks.com/volume-13-issue-5-may-2024)
 
