@@ -26,4 +26,4 @@ OpenCV for image processing
 # System Architecture🛠️
 ![SAnew](https://github.com/user-attachments/assets/9835e9c9-72af-454e-b474-601d81e3cdc9)
 
-Thanks for Visiting!🔥
+# Thanks for Visiting!🔥
